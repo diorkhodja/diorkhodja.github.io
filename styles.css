@@ -9,16 +9,17 @@ h1{
 }
 
 h1{
-	font-family:  Brush Script Std, bold;
+	font-family:  Brush Script Std;
 	font-size: 25;
 	font-style: bold;
-	color: Red;
+	color: light-gray;
 }
 p{
 	font-family: Snell Roundhand, bold;
 	font-size: 120%;
 	font-style: italic bold;
 	color: white;
+text-align: center;
 
 }
 
@@ -40,7 +41,7 @@ p.m{
 	color: white;
 
 }
-h2.T{
+h2{
 	text-align: center;
 	font-size: 180%;
 	color: white;
@@ -73,3 +74,9 @@ div{
 	font-weight: bold;
 color: blue;
 }
+#actin{
+  text-align: center;
+  margin-top: 30px;
+}
+
+
